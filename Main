@@ -111,7 +111,7 @@ end
 
 -- daftar link raw route (ubah ke link punyamu)
 routes = {
-    {"BASE → SUMMIT", loadRoute("https://bantaigunung.my.id/github.php/master/YAHAYUK/01.lua?action=raw&path=FUNNY%2F01.lua")},
+    {"BASE → SUMMIT", loadRoute("https://raw.githubusercontent.com/LlyXCode/FUNNY/refs/heads/main/01.lua")},
 }
 
 -- ============================================================
